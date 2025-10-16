@@ -17,7 +17,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="img/icons8-gmail-novo-48.png" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="img/icons8-linkedin-48.png" target="_blank"></a> 
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=vinidev.eng@gmail.com&su=Ol%C3%A1&body=Mensagem+autom%C3%A1tica&tf=cm" target="_blank"><img src="img/icons8-gmail-novo-48.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-vinicius-ds" target="_blank"><img src="img/icons8-linkedin-48.png" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="img/icons8-logo-discord-48.png" target="_blank"></a>
 </div>
