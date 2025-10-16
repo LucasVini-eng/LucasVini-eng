@@ -6,9 +6,10 @@
 
 
 
-### PRINCIPAIS FERRAMENTAS:
+
 <div style="display: inline_block"><br>
   <hr>
+  <h3>⟫PRINCIPAIS FERRAMENTAS:</h3>
   <img align="center" alt="Java" height="45" width="45" src="img/icons8-logo-java-coffee-cup-48.png">
   <img align="center" alt="Python" height="45" width="45" src="img/icons8-python-48.png">
   <img align="center" alt="NetBeans" height="45" width="45" src="img/icons8-apache-netbeans-50.png">
