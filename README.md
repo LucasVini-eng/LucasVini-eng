@@ -20,7 +20,8 @@
   <h3>⟫Web Skills:</h3>
   <img align="center" alt="Html" height="45" width="45" src="img/icons8-html-50.png">
   <img align="center" alt="css" height="45" width="45" src="img/icons8-css-50.png">
-  <img align="center" alt="Pycharm" height="45" width="45" src="img/icons8-javascript-50.png"> 
+  <img align="center" alt="Pycharm" height="45" width="45" src="img/icons8-javascript-50.png">
+  <hr>
 </div>
 
  
