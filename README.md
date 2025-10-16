@@ -24,6 +24,7 @@
   <hr>
   <h4>⟫Cloud Skills:</h4>
   <img align="center" alt="GoogleCloud" height="45" width="45" src="img/icons8-google-cloud-50.png">
+  <hr>
 </div>
 
  
