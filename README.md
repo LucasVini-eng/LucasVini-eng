@@ -6,6 +6,8 @@
 
 
 
+### PRINCIPAIS FERRAMENTAS:
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="45" width="45" src="img/icons8-logo-java-coffee-cup-48.png">
   <img align="center" alt="Python" height="45" width="45" src="img/icons8-python-48.png">
