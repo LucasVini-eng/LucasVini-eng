@@ -17,16 +17,7 @@
   <img align="center" alt="VsCode" height="45" width="45" src="img/icons8-pycharm-50.png">
   <img align="center" alt="Intellige" height="45" width="45" src="img/icons8-pycharm-50.png"> 
   <hr>
-</div>
-
-<div style="display: inline_block"><br>
-  <hr>
   <h3>⟫Web Skills:</h3>
-  <img align="center" alt="Java" height="45" width="45" src="img/icons8-logo-java-coffee-cup-48.png">
-  <img align="center" alt="Python" height="45" width="45" src="img/icons8-python-48.png">
-  <img align="center" alt="NetBeans" height="45" width="45" src="img/icons8-apache-netbeans-50.png">
-  <img align="center" alt="Pycharm" height="45" width="45" src="img/icons8-pycharm-50.png"> 
-  <hr>
 </div>
 
  
