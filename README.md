@@ -15,14 +15,10 @@
   <img align="center" alt="NetBeans" height="45" width="45" src="img/icons8-apache-netbeans-50.png">
   <img align="center" alt="Pycharm" height="45" width="45" src="img/icons8-pycharm-50.png">
   <img align="center" alt="VsCode" height="45" width="45" src="img/icons8-visual-studio-code-2019-50.png">
-  <img align="center" alt="Intellige" height="45" width="45" src="img/icons8-intellij-idea-50.png"> 
-  <hr>
-  <h4>⟫Web Skills:</h4>
+  <img align="center" alt="Intellige" height="45" width="45" src="img/icons8-intellij-idea-50.png">
   <img align="center" alt="Html" height="45" width="45" src="img/icons8-html-50.png">
   <img align="center" alt="css" height="45" width="45" src="img/icons8-css-50.png">
   <img align="center" alt="Pycharm" height="45" width="45" src="img/icons8-javascript-50.png">
-  <hr>
-  <h4>⟫Cloud Skills:</h4>
   <img align="center" alt="GoogleCloud" height="45" width="45" src="img/icons8-google-cloud-50.png">
   <hr>
 </div>
