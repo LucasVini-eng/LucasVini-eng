@@ -1,12 +1,6 @@
 # Bem vindos(as) aos meus projetos! 👨‍💻
 
 
-
-
-
-
-
-
 <div style="display: inline_block"><br>
   <hr>
   <h4>⟫Main Hards Skills:</h4>
