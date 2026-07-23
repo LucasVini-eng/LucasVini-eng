@@ -1,4 +1,4 @@
-# Bem vindos(as) aos meus projetos! 👨‍💻
+# Welcome to my projects! 👨‍💻
 
 
 <div style="display: inline_block"><br>
